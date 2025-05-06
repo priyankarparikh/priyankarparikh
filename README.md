@@ -4,5 +4,4 @@
 
 As an experienced education professional with a Master’s in Counseling and a Business Intelligence & Analytics certification, I specialize in turning educational insights into actionable strategies using data. My career journey spans from supporting student success in K-12 environments to advising international learners—equipping me with a unique, people-centered lens to approach data analysis.
 
-- 📫 Feel free to contact me on GitHub or LinkedIn
-- 😄 Pronouns: She / Her
+- 📫 Feel free to contact me on GitHub or Linkedin
